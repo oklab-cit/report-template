@@ -1,0 +1,11 @@
+# ignore system files
+.DS_Store
+
+# ignore TeX output files
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
